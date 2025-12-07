@@ -1,25 +1,33 @@
 badges:
-  - name: ci-build
-    image_url: "https://github.com/chirag127/PyCentral-Python-Automation-Toolkit/actions/workflows/ci.yml/badge.svg"
-    target_url: "https://github.com/chirag127/PyCentral-Python-Automation-Toolkit/actions/workflows/ci.yml"
-    markdown: "[![CI Build](https://github.com/chirag127/PyCentral-Python-Automation-Toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/chirag127/PyCentral-Python-Automation-Toolkit/actions/workflows/ci.yml)"
-  - name: code-coverage
-    image_url: "https://codecov.io/gh/chirag127/PyCentral-Python-Automation-Toolkit/branch/main/graph/badge.svg?token=PYCENTRAL_CODECOV_TOKEN_PLACEHOLDER"
-    target_url: "https://codecov.io/gh/chirag127/PyCentral-Python-Automation-Toolkit"
-    markdown: "[![Code Coverage](https://codecov.io/gh/chirag127/PyCentral-Python-Automation-Toolkit/branch/main/graph/badge.svg?token=PYCENTRAL_CODECOV_TOKEN_PLACEHOLDER)](https://codecov.io/gh/chirag127/PyCentral-Python-Automation-Toolkit)"
-  - name: tech-stack
-    image_url: "https://img.shields.io/badge/Tech_Stack-Python%20%7C%20Jupyter%20%7C%20uv%20%7C%20Ruff%20%7C%20Pytest-blueviolet?style=flat-square&logo=python&logoColor=white"
-    target_url: "https://www.python.org/"
-    markdown: "[![Tech Stack](https://img.shields.io/badge/Tech_Stack-Python%20%7C%20Jupyter%20%7C%20uv%20%7C%20Ruff%20%7C%20Pytest-blueviolet?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)"
-  - name: lint-format
-    image_url: "https://img.shields.io/badge/Linting%20%26%20Formatting-Ruff-orange?style=flat-square&logo=ruff&logoColor=white"
-    target_url: "https://docs.astral.sh/ruff/"
-    markdown: "[![Linting & Formatting](https://img.shields.io/badge/Linting%20%26%20Formatting-Ruff-orange?style=flat-square&logo=ruff&logoColor=white)](https://docs.astral.sh/ruff/)"
-  - name: license
-    image_url: "https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat-square"
-    target_url: "https://creativecommons.org/licenses/by-nc/4.0/"
-    markdown: "[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/)"
-  - name: github-stars
-    image_url: "https://img.shields.io/github/stars/chirag127/PyCentral-Python-Automation-Toolkit?style=flat-square&cacheSeconds=3600"
-    target_url: "https://github.com/chirag127/PyCentral-Python-Automation-Toolkit/stargazers"
-    markdown: "[![GitHub Stars](https://img.shields.io/github/stars/chirag127/PyCentral-Python-Automation-Toolkit?style=flat-square&cacheSeconds=3600)](https://github.com/chirag127/PyCentral-Python-Automation-Toolkit/stargazers)"
+  - name: Build Status
+    image_url: "https://github.com/chirag127/PyVault-Python-Automation-And-Data-Scripts/actions/workflows/ci.yml/badge.svg"
+    link_url: "https://github.com/chirag127/PyVault-Python-Automation-And-Data-Scripts/actions/workflows/ci.yml"
+    markdown: "[![Build Status](https://github.com/chirag127/PyVault-Python-Automation-And-Data-Scripts/actions/workflows/ci.yml/badge.svg)](https://github.com/chirag127/PyVault-Python-Automation-And-Data-Scripts/actions/workflows/ci.yml)"
+  - name: Code Coverage
+    image_url: "https://codecov.io/gh/chirag127/PyVault-Python-Automation-And-Data-Scripts/branch/main/graph/badge.svg"
+    link_url: "https://codecov.io/gh/chirag127/PyVault-Python-Automation-And-Data-Scripts"
+    markdown: "[![Code Coverage](https://codecov.io/gh/chirag127/PyVault-Python-Automation-And-Data-Scripts/branch/main/graph/badge.svg)](https://codecov.io/gh/chirag127/PyVault-Python-Automation-And-Data-Scripts)"
+  - name: Python Version
+    image_url: "https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=flat-square&logo=python&logoColor=white"
+    link_url: "https://www.python.org/"
+    markdown: "[![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)"
+  - name: Package Manager
+    image_url: "https://img.shields.io/badge/Package%20Manager-uv-orange.svg?style=flat-square&logo=pypi&logoColor=white"
+    link_url: "https://github.com/astral-sh/uv"
+    markdown: "[![Package Manager](https://img.shields.io/badge/Package%20Manager-uv-orange.svg?style=flat-square&logo=pypi&logoColor=white)](https://github.com/astral-sh/uv)"
+  - name: Linter & Formatter
+    image_url: "https://img.shields.io/badge/Lint%20%26%20Format-Ruff-blueviolet.svg?style=flat-square&logo=ruff&logoColor=white"
+    link_url: "https://docs.astral.sh/ruff/"
+    markdown: "[![Linter & Formatter](https://img.shields.io/badge/Lint%20%26%20Format-Ruff-blueviolet.svg?style=flat-square&logo=ruff&logoColor=white)](https://docs.astral.sh/ruff/)"
+  - name: Testing Framework
+    image_url: "https://img.shields.io/badge/Testing-Pytest-green.svg?style=flat-square&logo=pytest&logoColor=white"
+    link_url: "https://pytest.org"
+    markdown: "[![Testing Framework](https://img.shields.io/badge/Testing-Pytest-green.svg?style=flat-square&logo=pytest&logoColor=white)](https://pytest.org)"
+  - name: License
+    image_url: "https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg?style=flat-square"
+    link_url: "https://creativecommons.org/licenses/by-nc/4.0/"
+    markdown: "[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/)"
+  - name: GitHub Stars
+    image_url: "https://img.shields.io/github/stars/chirag127/PyVault-Python-Automation-And-Data-Scripts?style=flat-square&logo=github&logoColor=white"
+    link_url: "https://github.com/chirag127/PyVault-Python-Automation-And-Data-Scripts/stargazers"
+    markdown: "[![GitHub Stars](https://img.shields.io/github/stars/chirag127/PyVault-Python-Automation-And-Data-Scripts?style=flat-square&logo=github&logoColor=white)](https://github.com/chirag127/PyVault-Python-Automation-And-Data-Scripts/stargazers)"
