@@ -1,82 +1,282 @@
-![Amazing-Python-Scripts](https://socialify.git.ci/avinashkranjan/Amazing-Python-Scripts/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F55796944%2F104455539-7258a200-55cd-11eb-90dc-7c9981e73d72.png&owner=1&pulls=1&stargazers=1&theme=Light)
-
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
-[![GitHub issues](https://img.shields.io/github/issues/avinashkranjan/Amazing-Python-Scripts.svg)](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues)
-[![GitHub issues closed](https://img.shields.io/github/issues-closed/avinashkranjan/Amazing-Python-Scripts.svg)](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/avinashkranjan/Amazing-Python-Scripts.svg)](https://github.com/avinashkranjan/Amazing-Python-Scripts/pulls)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/avinashkranjan/Amazing-Python-Scripts.svg)](https://github.com/avinashkranjan/Amazing-Python-Scripts/pulls?q=is%3Apr+is%3Aclosed) ![GitHub repo size](https://img.shields.io/github/repo-size/avinashkranjan/Amazing-Python-Scripts?color=yellow) 
-![Lines of Code](https://img.shields.io/tokei/lines/github/avinashkranjan/Amazing-Python-Scripts?color=red&label=Lines%20of%20Code)
-
-<h2 align=center> 📑 Introduction </h2>
-
-A curated collection of **Amazing Python scripts** from **_Basics to Advance with automation task scripts_**. This is your Personal space to find or add any new script
-that can make Life Easier for you, as a **_Developer_**, and find a utility of coding to burst out of boredom. Get started with coding exhilarating scripts that you can use to **_download PDFs from an Online Source or just to randomly like everyone's Instagram Post_**.
-
-<h2 align=center> 📃 Scripts Available </h2>
-  <p align="center">
-  <a href="https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/master/SCRIPTS.md">
-    <img src="https://forthebadge.com/images/badges/check-it-out.svg">
+<p align="center">
+  <a href="https://github.com/chirag127/PyVault-Python-Automation-And-Data-Scripts">
+    <img src="https://raw.githubusercontent.com/chirag127/PyVault-Python-Automation-And-Data-Scripts/main/docs/assets/pyvault-hero-banner.png" alt="PyVault Hero Banner" width="800">
   </a>
+</p>
 
-<h2 align=center> 👨🏻‍💻 How to get started? </h2> 
+<p align="center">
+  <!-- Build Status -->
+  <a href="https://github.com/chirag127/PyVault-Python-Automation-And-Data-Scripts/actions/workflows/ci.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/chirag127/PyVault-Python-Automation-And-Data-Scripts/ci.yml?branch=main&style=flat-square&label=Build%20Status" alt="Build Status">
+  </a>
+  <!-- Code Coverage (Placeholder) -->
+  <a href="https://codecov.io/gh/chirag127/PyVault-Python-Automation-And-Data-Scripts">
+    <img src="https://img.shields.io/codecov/c/github/chirag127/PyVault-Python-Automation-And-Data-Scripts?style=flat-square&label=Coverage" alt="Code Coverage">
+  </a>
+  <!-- Python Version -->
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python" alt="Python Version">
+  </a>
+  <!-- Linter/Formatter -->
+  <a href="https://github.com/astral-sh/ruff">
+    <img src="https://img.shields.io/badge/Lint/Format-Ruff-black?style=flat-square&logo=ruff" alt="Ruff Linter">
+  </a>
+  <!-- Testing Framework -->
+  <a href="https://docs.pytest.org/">
+    <img src="https://img.shields.io/badge/Tests-Pytest-blue?style=flat-square&logo=pytest" alt="Pytest">
+  </a>
+  <!-- License -->
+  <a href="https://github.com/chirag127/PyVault-Python-Automation-And-Data-Scripts/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat-square" alt="License: CC BY-NC 4.0">
+  </a>
+  <!-- GitHub Stars -->
+  <a href="https://github.com/chirag127/PyVault-Python-Automation-And-Data-Scripts/stargazers">
+    <img src="https://img.shields.io/github/stars/chirag127/PyVault-Python-Automation-And-Data-Scripts?style=flat-square&color=orange" alt="GitHub Stars">
+  </a>
+</p>
 
-You can refer to the following articles on **_basics of Git and Github and also contact the Project Mentors, in case you are stuck_**:
+<p align="center">
+  Star ⭐ this Repo!
+</p>
 
-- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
-- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
-- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
-- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+---
+
+## 🚀 Blazing Fast Utility with PyVault
+
+PyVault is an elite, expertly curated collection of Python scripts and utilities, meticulously designed for robust automation, efficient data processing, and seamless workflow enhancements. It serves as your definitive toolkit for maximizing productivity and mastering practical Python development through high-quality, ready-to-deploy solutions.
+
+This repository is engineered to provide modular, high-performance Python tools, ranging from system automation to sophisticated data manipulation, all built with an emphasis on clarity, maintainability, and reusability.
+
+## 🏛️ Architectural Overview
+
+PyVault adheres to a **Modular Monolith** architecture, ensuring clear separation of concerns while maintaining a unified and easily deployable structure. Key modules are logically grouped, facilitating independent development and testing of functionalities such as core utilities, automation routines, and data processing pipelines.
 
 
-<h2 align=center> 📝 How to Contribute? </h2>  
+.github/                     # GitHub Workflows & Templates
+├── workflows/               # CI/CD Workflows
+│   └── ci.yml
+├── CONTRIBUTING.md          # Contribution Guidelines
+├── ISSUE_TEMPLATE/          # Issue Templates
+├── PULL_REQUEST_TEMPLATE.md # PR Template
+└── SECURITY.md              # Security Policy
+docs/                        # Project Documentation
+src/                         # Main Python Source Code (Modular Monolith)
+├── pyvault_core/            # Core Utility Module
+├── automation_modules/      # Automation specific scripts
+├── data_processing_modules/ # Data processing scripts
+└── __init__.py
+tests/                       # Unit and Integration Tests
+├── unit/
+└── integration/
+scripts/                     # Standalone helper scripts
+.gitignore                   # Files to ignore from Git
+AGENTS.md                    # AI Agent Directives
+badges.yml                   # Badge Configuration
+LICENSE                      # Licensing Information
+README.md                    # Project Overview
+pyproject.toml               # Project Metadata & Dependencies (uv, Ruff, Pytest)
 
-- Take a look at [Contributing Guide](https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/master/CONTRIBUTING.md)
-- Take a look at the Existing Issues or create your own Issues!
-- Wait for the Issue to be assigned to you after which you can start working on it.
-- Fork the Repo and create a Branch for any Issue that you are working upon.
-- Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
-- Add Screenshots to help us know what this Script is all about.
 
-<h2 align=center> ✨ Contributors </h2>
+## 🗂️ Table of Contents
 
-Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
+*   [🚀 Blazing Fast Utility with PyVault](#blazing-fast-utility-with-pyvault)
+*   [🏛️ Architectural Overview](#architectural-overview)
+*   [🗂️ Table of Contents](#table-of-contents)
+*   [⚙️ Setup and Installation](#setup-and-installation)
+    *   [Prerequisites](#prerequisites)
+    *   [Cloning the Repository](#cloning-the-repository)
+    *   [Installing Dependencies](#installing-dependencies)
+*   [🛠️ Available Scripts](#available-scripts)
+*   [🎯 Core Principles](#core-principles)
+*   [🤝 Contributing](#contributing)
+*   [🛡️ Security](#security)
+*   [📜 License](#license)
+*   [🤖 AI Agent Directives](#ai-agent-directives)
 
-<table>
-	<tr>
-		<td>
-			<a href="https://github.com/avinashkranjan/Amazing-Python-Scripts/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=avinashkranjan/Amazing-Python-Scripts" />
-</a>
-		</td>
-	</tr>
-</table>
+## ⚙️ Setup and Installation
 
-<h2 align=center> 🌟 Stargazers Over Time 🌟 </h2>
+Follow these steps to get PyVault up and running on your local machine.
 
-[![Stargazers over time](https://starchart.cc/avinashkranjan/Amazing-Python-Scripts.svg)](https://starchart.cc/avinashkranjan/Amazing-Python-Scripts)
+### Prerequisites
 
-<h1 align=center> Project Maintainers ❤️ </h1>
-<table>
-<tr>
-<td align="center"><a href="https://github.com/avinashkranjan"><img src="https://user-images.githubusercontent.com/55796944/95675026-dab07580-0bd1-11eb-93e2-1cb1de8acf38.png" width=150px height=150px /></a></br> <h4 style="color:red;">Avinash Ranjan</h4>
-<a href="https://www.linkedin.com/in/avinashkranjan/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+Ensure you have the following installed:
 
-<td align="center" ><a href="https://github.com/kaustubhgupta"><img src="https://user-images.githubusercontent.com/55796944/119778028-95348480-bee4-11eb-86b2-0ba065316e5f.jpg" width=150px height=150px /></a></br> <h4 style="color:red;">Kaustubh Gupta</h4>
-<a href="https://www.linkedin.com/in/kaustubh-gupta/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+*   **Python 3.10+** (Recommended via `pyenv` or `conda`)
+*   **uv** (Installation: `pip install uv` or `curl -LsSf https://astral.sh/uv/install.sh | sh`)
 
-<td align="center"><a href="https://github.com/antrikshmisri"><img src="https://user-images.githubusercontent.com/55796944/119777909-72a26b80-bee4-11eb-829d-e5baa76bdb75.jpg" width=150px height=150px /></a></br> <h4 style="color:red;">Antriksh Misri</h4>
-<a href="https://www.linkedin.com/in/antriksh-misri-b631361a1/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+### Cloning the Repository
 
-<td align="center"><a href="https://github.com/santushtisharma10"><img src="https://user-images.githubusercontent.com/55796944/119778363-0c6a1880-bee5-11eb-9929-f74661ff38f5.jpg" width=150px height=150px /></a></br> <h4 style="color:red;">Santushti Sharma</h4>
-<a href="https://www.linkedin.com/in/santushti-sharma-9b65a6192/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+bash
+git clone https://github.com/chirag127/PyVault-Python-Automation-And-Data-Scripts.git
+cd PyVault-Python-Automation-And-Data-Scripts
 
-<td align="center"><a href="https://github.com/Kushal997-das"><img src="https://user-images.githubusercontent.com/55796944/119778722-7b477180-bee5-11eb-9c20-172a31199dd3.jpg" width=150px height=150px /></a></br> <h4 style="color:red;">Kushal Das</h4> <a href="https://www.linkedin.com/in/kushal-das-7337421a9/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
 
-</tr>
-</table>
+### Installing Dependencies
 
-<h1 align=center>Happy Coding 👨‍💻 </h1>
+PyVault uses `uv` for efficient package management. Run the following command to synchronize your environment:
+
+bash
+uv sync
+
+
+This will install all necessary project dependencies defined in `pyproject.toml`.
+
+## 🛠️ Available Scripts
+
+Utilize `uv run` to execute common development and maintenance tasks:
+
+| Script Name | Command          | Description                                                    |
+| :---------- | :--------------- | :------------------------------------------------------------- |
+| `lint`      | `uv run lint`    | Runs `ruff check .` for linting and formatting.                |
+| `format`    | `uv run format`  | Runs `ruff format .` to auto-format code.                      |
+| `test`      | `uv run test`    | Executes all unit and integration tests with `pytest`.         |
+| `start`     | `uv run start`   | Example: Executes a primary script or entry point.             |
+| `dev`       | `uv run dev`     | Starts a development server or interactive session (if applicable). |
+
+Example usage:
+
+bash
+uv run lint
+uv run test
+
+
+## 🎯 Core Principles
+
+At PyVault, we adhere to fundamental software engineering principles to ensure high-quality, maintainable, and scalable code:
+
+*   **SOLID Principles:** Guiding modular and extensible design.
+*   **DRY (Don't Repeat Yourself):** Promoting code reusability and reducing redundancy.
+*   **YAGNI (You Aren't Gonna Need It):** Focusing on current requirements to avoid over-engineering.
+*   **Modularity:** Breaking down complex problems into smaller, manageable, and independently deployable units.
+*   **Test-Driven Development (TDD):** Writing tests before code to ensure functionality and robustness.
+
+## 🤝 Contributing
+
+We welcome contributions to PyVault! Please refer to our [CONTRIBUTING.md](https://github.com/chirag127/PyVault-Python-Automation-And-Data-Scripts/blob/main/.github/CONTRIBUTING.md) for detailed guidelines on how to submit pull requests, report bugs, and suggest new features.
+
+## 🛡️ Security
+
+Security is paramount. Please review our [SECURITY.md](https://github.com/chirag127/PyVault-Python-Automation-And-Data-Scripts/blob/main/.github/SECURITY.md) to understand our security policies and how to report vulnerabilities.
+
+## 📜 License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](https://github.com/chirag127/PyVault-Python-Automation-And-Data-Scripts/blob/main/LICENSE).
+
+## 🤖 AI Agent Directives
+
+<details>
+<summary><b>View AI Agent Directives (CRITICAL for Automated Development)</b></summary>
+
+# SYSTEM: APEX TECHNICAL AUTHORITY & ELITE ARCHITECT (DECEMBER 2025 EDITION)
+
+## 1. IDENTITY & PRIME DIRECTIVE
+**Role:** You are a Senior Principal Software Architect and Master Technical Copywriter with **40+ years of elite industry experience**. You operate with absolute precision, enforcing FAANG-level standards and the wisdom of "Managing the Unmanageable."
+**Context:** Current Date is **December 2025**. You are building for the 2026 standard.
+**Output Standard:** Deliver **EXECUTION-ONLY** results. No plans, no "reporting"—only executed code, updated docs, and applied fixes.
+**Philosophy:** "Zero-Defect, High-Velocity, Future-Proof."
+
+---
+
+## 2. INPUT PROCESSING & COGNITION
+*   **SPEECH-TO-TEXT INTERPRETATION PROTOCOL:**
+    *   **Context:** User inputs may contain phonetic errors (homophones, typos).
+    *   **Semantic Correction:** **STRICTLY FORBIDDEN** from executing literal typos. You must **INFER** technical intent based on the project context.
+    *   **Logic Anchor:** Treat the `README.md` as the **Single Source of Truth (SSOT)**.
+*   **MANDATORY MCP INSTRUMENTATION:**
+    *   **No Guessing:** Do not hallucinate APIs.
+    *   **Research First:** Use `linkup`/`brave` to search for **December 2025 Industry Standards**, **Security Threats**, and **2026 UI Trends**.
+    *   **Validation:** Use `docfork` to verify *every* external API signature.
+    *   **Reasoning:** Engage `clear-thought-two` to architect complex flows *before* writing code.
+
+---
+
+## 3. CONTEXT-AWARE APEX TECH STACKS (LATE 2025 STANDARDS)
+**Directives:** Detect the project type and apply the corresponding **Apex Toolchain**. This repository, `PyVault-Python-Automation-And-Data-Scripts`, is a Python-based utility and automation toolkit.
+
+*   **PRIMARY SCENARIO: DATA / SCRIPTS / AI (Python)**
+    *   **Stack:** This project leverages **Python 3.10+**. Key tools include **uv** (for package management and dependency resolution), **Ruff** (for ultra-fast linting and formatting), and **Pytest** (for robust unit and integration testing).
+    *   **Architecture:** Adheres to a **Modular Monolith** pattern, ensuring clear separation of concerns for features like system automation, data processing, and general utilities, while maintaining a unified deployment.
+    *   **AI Integration:** Future enhancements may integrate AI APIs (e.g., Google Gemini, OpenAI GPT) for intelligent decision-making or advanced data analysis tasks. Prioritize modular design, clear API contracts, and robust error handling for all AI model interactions.
+    *   **CLI Framework:** Uses `Click` or similar for powerful and intuitive command-line interfaces where applicable for specific tools.
+
+*   **SECONDARY SCENARIO A: WEB / APP / EXTENSION (TypeScript) - *Not applicable for this project's primary function. Reference only for potential future web-based extensions.***
+    *   **Stack:** TypeScript 6.x (Strict), Vite 7 (Rolldown), Tauri v2.x (Native), WXT (Extensions).
+    *   **State:** Signals (Standardized).
+    *   **Lint/Test:** Biome (Speed) + Vitest (Unit) + Playwright (E2E).
+    *   **Architecture:** Feature-Sliced Design (FSD).
+
+*   **SECONDARY SCENARIO B: SYSTEMS / PERFORMANCE (Rust/Go) - *Not applicable for this project's primary function. Reference only for potential future performance-critical modules.***
+    *   **Stack:** Rust (Cargo) or Go (Modules).
+    *   **Lint:** Clippy / GolangCI-Lint.
+    *   **Architecture:** Hexagonal Architecture (Ports & Adapters).
+
+---
+
+## 4. ARCHITECTURAL PATTERNS & PRINCIPLES
+**MANDATE:** All code generated or modified MUST adhere to the highest standards.
+
+*   **Modularity & Reusability:** Emphasize small, focused, and testable units of code.
+*   **SOLID Principles:** Strict adherence to Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion Principles.
+*   **DRY (Don't Repeat Yourself):** Eliminate redundant code through abstraction and reusability.
+*   **YAGNI (You Aren't Gonna Need It):** Build only what's necessary for the current iteration.
+*   **Hexagonal Architecture (Ports & Adapters):** For complex services, ensure clear separation between core business logic and external dependencies (UI, database, external APIs).
+*   **Feature-Sliced Design (FSD):** For frontend applications, organize code by feature, layer, and slice to improve scalability and maintainability.
+
+---
+
+## 5. TESTING & VERIFICATION PROTOCOL (ZERO-DEFECT MANDATE)
+**Directive:** Every functional unit requires a verifiable test.
+
+*   **Unit Tests:**
+    *   **Framework:** `Pytest` for Python. `Vitest` for TypeScript/JavaScript.
+    *   **Coverage:** Minimum 90% line, branch, and function coverage.
+    *   **Mocks/Stubs:** `unittest.mock` (Python) or `vi.mock` (Vitest) for isolating units.
+*   **Integration Tests:**
+    *   **Purpose:** Verify interactions between modules and external services (e.g., API calls, database interactions).
+    *   **Framework:** `Pytest` (Python), `Vitest` (TypeScript).
+*   **End-to-End (E2E) Tests:**
+    *   **Framework:** `Playwright` for web/GUI applications.
+    *   **Purpose:** Simulate user flows from start to finish.
+*   **Linting & Formatting:**
+    *   **Tool:** `Ruff` (Python) for both linting and formatting.
+    *   **Mandate:** Zero linting errors or warnings. Code MUST be auto-formatted before commit.
+
+**VERIFICATION COMMANDS (For this Python project):**
+
+*   **Lint & Format Check:** `uv run lint` (`ruff check . --statistics`)
+*   **Auto-Format:** `uv run format` (`ruff format .`)
+*   **Run Tests:** `uv run test` (`pytest --cov=src --no-cov-report --strict-markers`)
+*   **Run with Coverage Report:** `pytest --cov=src --cov-report=xml --cov-report=term-missing`
+
+---
+
+## 6. SECURITY & COMPLIANCE
+**Directive:** Prioritize security in all layers.
+
+*   **OWASP Top 10:** Adhere to best practices against common web vulnerabilities.
+*   **Least Privilege:** All components and users operate with the minimum necessary permissions.
+*   **Input Validation:** Strict validation of all external inputs.
+*   **Dependency Scanning:** Use automated tools (e.g., `pip-audit`, Dependabot) to monitor for vulnerable dependencies.
+*   **Data Encryption:** Encrypt sensitive data at rest and in transit.
+
+---
+
+## 7. DOCUMENTATION & README STANDARD
+**Directive:** Documentation is a first-class citizen.
+
+*   **README.md:** Must be a comprehensive "Project Operating System" (refer to the main README.md).
+*   **Code Comments:** Explain *why*, not just *what*. Focus on complex logic, assumptions, and future considerations.
+*   **Type Hinting:** Mandatory for all Python functions, methods, and variables.
+*   **API Documentation:** Generate using Sphinx/MkDocs (Python) or TypeDoc (TypeScript).
+
+---
+
+## 8. DEVOPS & CI/CD STRATEGY
+**Directive:** Automate everything feasible.
+
+*   **GitHub Actions:** Primary CI/CD platform.
+*   **Workflow:** Build -> Test -> Lint/Format Check -> Deploy (if applicable).
+*   **Containerization:** Docker/Podman for consistent environments (if applicable).
+*   **Infrastructure as Code (IaC):** Terraform/Pulumi for provisioning infrastructure (if applicable).
+
+</details>
