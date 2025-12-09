@@ -1,69 +1,47 @@
-# Byte-compiled / optimized / DLL files
+# Byte-code files
+*.pyc
 __pycache__/
-*.py[cod]
-*$py.class
-
-# C extensions
-*.so
-
-# Distribution / packaging
-.Python
-build/
-dist/
+*.pyd
 *.egg-info/
-*.egg
 
-# Editors
-.project
-.settings
+# Virtual environments
+.venv/
+env/
+virtualenv/
+venv/
+.uv/
+
+# IDE specific
 .idea/
 .vscode/
 *.sublime-project
 *.sublime-workspace
+*.komodoproject
+*.komodoworkspace
 
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-venv.bak/
-virtualenv/
-.python-version
-
-# Python test and coverage
+# Test and build artifacts
 .pytest_cache/
 .coverage
-.mypy_cache/
-.ruff_cache/
+build/
+dist/
 
-# Jupyter Notebook specific
-.ipynb_checkpoints/
-*.jupyter_temp.py
-# If you generate HTML from notebooks, you might want to ignore them
-# *.html
-
-# Documentation
-docs/_build/
-
-# OS-specific files
+# OS specific
 .DS_Store
 Thumbs.db
 
-# Compiled files from other languages (e.g., Rust if used with FFI)
-*.o
-*.a
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+*.ipynb
 
 # Log files
 *.log
 
-# Data files and generated outputs (customize as needed)
-*.csv.gz
-*.jsonl
-*.hdf5
-*.parquet
-/data/
-/output/
+# User specific configs - if any
+*.env
+.env.*
 
-# Database files
-*.sqlite3
+# uv specific (already covered by .uv/, but good to be explicit for other potential package managers)
+pip-log.txt
+
+# Ruff cache
+.ruff_cache/
