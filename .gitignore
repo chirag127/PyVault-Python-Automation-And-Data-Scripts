@@ -1,47 +1,25 @@
-# Byte-code files
-*.pyc
-__pycache__/
-*.pyd
-*.egg-info/
+# Apex Technical Authority .gitignore
 
-# Virtual environments
-.venv/
+# Byte-compiled Python files
+*.py[cod]
+
+# C extensions
+*.so
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+
+# Virtual environment
 env/
-virtualenv/
 venv/
-.uv/
 
-# IDE specific
-.idea/
+# IDEs and editors
 .vscode/
-*.sublime-project
-*.sublime-workspace
-*.komodoproject
-*.komodoworkspace
+.pycharm/
 
-# Test and build artifacts
-.pytest_cache/
-.coverage
-build/
-dist/
-
-# OS specific
+# Operating system files
 .DS_Store
 Thumbs.db
-
-# Jupyter Notebook specific
-.ipynb_checkpoints/
-*.ipynb
-
-# Log files
-*.log
-
-# User specific configs - if any
-*.env
-.env.*
-
-# uv specific (already covered by .uv/, but good to be explicit for other potential package managers)
-pip-log.txt
-
-# Ruff cache
-.ruff_cache/
